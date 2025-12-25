@@ -10,6 +10,8 @@
 */
 
 // Start coding here
+// map(),filter(),reduce()
+// ไม่ใช่ linear search
 
 const numbers1 = [10, 30, 5, 20, 55];
 console.log(findNumberIndex(numbers1, 55)); // 4
